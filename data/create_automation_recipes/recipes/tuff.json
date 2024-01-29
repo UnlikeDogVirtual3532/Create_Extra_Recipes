@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:tuff",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:green_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:veridium",
+            "count": 1
+        }
+    ]
+}

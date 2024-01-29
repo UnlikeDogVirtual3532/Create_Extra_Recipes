@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:calcite",
+            "count": 1
+        }
+    ]
+}

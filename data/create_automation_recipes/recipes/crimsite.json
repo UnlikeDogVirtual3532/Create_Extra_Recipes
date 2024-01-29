@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:crimsite",
+            "count": 1
+        }
+    ]
+}

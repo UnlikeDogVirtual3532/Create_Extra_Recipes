@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:blue_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:asurine",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:yellow_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "create:ochrum",
+            "count": 1
+        }
+    ]
+}

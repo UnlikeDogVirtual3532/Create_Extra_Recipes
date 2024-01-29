@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "create:scorchia"
+        },
+        {
+            "item": "create:limestone"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:dirt",
+            "count": 1
+        }
+    ]
+}
